@@ -1,6 +1,10 @@
-### Hi there 👋
+### Welcome to my page ✨
 
 pol·y·math • /ˈpälēˌmaTH/ • noun • a person of wide-ranging knowledge or learning.
+
+I'm a jack-of-all-trades. I graduated with a B.S. in Data Science & Analytics and B.A. in Computer Science and Mathematics in June 2020. Now, I'm pursuing a Master's degree in Information Security & Assurance to compliment my full-time role as an IT Security Analyst. I also work as a part-time DevOps Engineer Intern which allows me to apply the skills I learned in order to obtain the AWS Developer Associate certification.
+
+Feel free to add me on [LinkedIn](https://www.linkedin.com/in/amaquiling/)!
 
 <!--
 **alymaquiling/alymaquiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
