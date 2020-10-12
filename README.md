@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+pol·y·math • /ˈpälēˌmaTH/ • noun • a person of wide-ranging knowledge or learning.
+
 <!--
 **alymaquiling/alymaquiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
