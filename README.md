@@ -9,7 +9,7 @@ I specialize in Node.js, Typescript, Python, Docker and AWS. Feel free to check 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/amaquiling/) 😊
 
-### Tools & Technologies
+### Tools & Technologies 💻
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=3776AB)
