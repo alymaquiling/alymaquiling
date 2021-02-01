@@ -1,11 +1,13 @@
-## Welcome to my page ✨
-
-### About me
+### About me ✨
 ##### pol·y·math • /ˈpälēˌmaTH/ • noun • a person of wide-ranging knowledge or learning.
 
-I'm a jack-of-all-trades. I graduated with a B.S. in Data Science & Analytics and B.A. in Computer Science and Mathematics in June 2020. Now, I'm pursuing an M.S. in Cybersecurity at NYU to compliment my full-time Security Engineer internship. I also work as a part-time DevOps Engineer Intern which allows me to apply the skills I learned while studying for the AWS Developer Associate certification.
+Welcome to my GitHub page!
 
-Feel free to add me on [LinkedIn](https://www.linkedin.com/in/amaquiling/)!
+I am currently pursuing an M.S. in Cybersecurity at NYU to compliment my Security Engineer internship at Tesla, where I am working full-time. I am also a part-time DevOps Engineer Intern at GSA which has allowed me to apply the skills I learned while studying for the AWS Developer Associate certification. I earned a B.S. in Data Science & Analytics and B.A. in Computer Science and Mathematics in June 2020.
+
+I specialize in Node.js, Typescript, Python, Docker and AWS. Feel free to check out my pinned projects below!
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/amaquiling/) 😊
 
 ### Tools & Technologies
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
