@@ -33,7 +33,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/amaquiling/)!
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=E44332)
 ![](https://img.shields.io/badge/VMWare-informational?style=flat&logo=VMWare&logoColor=white&color=E44332)
 
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=VMWare&logoColor=white&color=7D4698)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=7D4698)
 ![](https://img.shields.io/badge/Kali_Linux-informational?style=flat&logo=Kali-Linux&logoColor=white&color=7D4698)
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=Apple&logoColor=white&color=7D4698)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=7D4698)
