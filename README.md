@@ -3,9 +3,9 @@
 
 Welcome to my GitHub page!
 
-I am currently pursuing an M.S. in Cybersecurity at NYU to compliment my Security Engineer internship at Tesla, where I am working full-time. I am also a part-time DevOps Engineer Intern at GSA which has allowed me to apply the skills I learned while studying for the AWS Developer Associate certification. I earned a B.S. in Data Science & Analytics and B.A. in Computer Science and Mathematics in June 2020.
+I am currently pursuing an M.S. in Cybersecurity at NYU while working as an intern on the PenTest team at Salesforce, where I am mainly focused on DevOps tools. 
 
-I specialize in Node.js, Typescript, Python, Docker and AWS. Feel free to check out my pinned projects below!
+I hold a B.S. in Data Science & Analytics and B.A. in Computer Science and Mathematics and specialize in Node.js, Typescript, Python, Docker and AWS. Feel free to check out my pinned projects below!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/amaquiling/) 😊
 
